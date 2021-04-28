@@ -1,17 +1,15 @@
-.container--small {
+.container-small {
     max-width: 1080px;
     padding: 0 48px;
   }
 
   @media(max-width:1279px){
-    .container--small{
-
+    .container-small{
       padding: 0 48px;
     }
   }
   @media(max-width:1023px){
-    .container--small{
-
+    .container-small{
       padding: 0 24px;
     }
   }
