@@ -1,0 +1,8 @@
+.header__link-lang{
+    color: aliceblue;
+    margin-right: 18px;
+    text-decoration: none;
+    }
+    .header__link-lang:last-of-type {
+        margin-right: 0;
+    }
