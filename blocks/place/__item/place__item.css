@@ -1,20 +1,20 @@
-.place__item{
+.place__item {
     display: grid;
     grid-template-areas:
-    'title info'
-    'img content';
+        'title info'
+        'img content';
     gap: 40px;
     grid-template-columns: 1fr 1fr;
     margin: 92px 0 0;
 }
 
-@media(max-width:767px){
-    .place__item{
+@media(max-width:767px) {
+    .place__item {
         grid-template-areas:
-        'title'
-        'info'
-        'img '
-        'content';
+            'title'
+            'info'
+            'img '
+            'content';
         grid-template-columns: 1fr;
     }
 }

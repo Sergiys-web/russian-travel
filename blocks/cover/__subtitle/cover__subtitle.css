@@ -1,18 +1,18 @@
-.cover__subtitle{
-    font-style: normal;
-    font-weight: normal;
+.cover__subtitle {
+  font-style: normal;
+  font-weight: normal;
   height: 66px;
   width: 360px;
   font-size: 18px;
   line-height: 1.22;
   text-align: center;
+}
+
+@media(max-width:767px) {
+  .cover__subtitle {
+    width: 288px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 1.14;
   }
-  
-  @media(max-width:767px) {
-    .cover__subtitle{
-  width: 288px;
-  height: 48px;
-  font-size: 14px;
-  line-height: 1.14;
-    }
-  }
+}

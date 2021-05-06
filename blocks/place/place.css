@@ -1,8 +1,8 @@
-.place{
+.place {
     margin: 0;
     padding: 0;
-    gap:40px;
+    gap: 40px;
     box-sizing: border-box;
     font-size: 18px;
-    line-height: 1.61;  
+    line-height: 1.61;
 }

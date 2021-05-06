@@ -1,4 +1,4 @@
-.place__info{
-grid-area:info;
-align-self:end;
+.place__info {
+    grid-area: info;
+    align-self: end;
 }
