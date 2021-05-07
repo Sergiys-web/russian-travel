@@ -11,9 +11,5 @@
 
     .footer__table:last-of-type {
         padding-bottom: 0px;
-    }
-
-    .footer__table:last-of-type {
         margin-right: 0;
     }
-}
