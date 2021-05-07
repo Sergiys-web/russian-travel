@@ -1,9 +1,13 @@
 .header__link-lang {
-    color: aliceblue;
+    color: #FFFFFF;
     margin-right: 18px;
     text-decoration: none;
 }
 
 .header__link-lang:last-of-type {
     margin-right: 0;
+}
+
+.header__link-lang:hover {
+    opacity: 0.8;
 }

@@ -1,6 +1,7 @@
 .body {
-    font-family: 'inter';
+    font-family: 'inter', 'Arial', 'Helvetica', sans-serif;
     background-color: #2A2C2F;
-    color: aliceblue;
+    color: #FFFFFF;
     padding: 0;
+    box-sizing: inherit
 }

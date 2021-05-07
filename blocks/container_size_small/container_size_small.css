@@ -1,0 +1,17 @@
+.container_size_small {
+  max-width: 1080px;
+  min-width: 320px;
+  padding: 0 48px;
+}
+
+@media(max-width:1023px) {
+  .container_size_small {
+    padding: 0 24px;
+  }
+}
+
+@media(max-width:767px) {
+  .container_size_small {
+    padding: 0 16px;
+  }
+}

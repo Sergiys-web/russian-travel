@@ -6,3 +6,15 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
 }
+
+@media (max-width:1023px) {
+    .lead__text {
+        padding: 24px;
+    }
+}
+
+@media(max-width:767px) {
+    .lead__text {
+        padding: 0 16px;
+    }
+}

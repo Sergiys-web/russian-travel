@@ -1,3 +1,4 @@
 .place__img {
     grid-area: img;
+    min-width: 320px;
 }
