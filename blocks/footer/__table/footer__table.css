@@ -8,8 +8,9 @@
         display: flex;
         flex-direction: column;
     }
+}
 
-    .footer__table:last-of-type {
-        padding-bottom: 0px;
-        margin-right: 0;
-    }
+.footer__table:last-of-type {
+    padding-bottom: 0px;
+    margin-right: 0;
+}
