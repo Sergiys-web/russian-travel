@@ -8,6 +8,5 @@
 @media(max-width:767px) {
     .header__container {
         padding: 16px 16px 0;
-        width: 100%;
     }
 }
