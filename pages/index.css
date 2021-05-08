@@ -23,7 +23,7 @@
 @import url(../blocks/header/__link-container/header__link-container.css);
 @import url(../blocks/header/__link-lang/header__link-lang.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__link-lang/-lang_active/header__link-lang_active.css);
+@import url(../blocks/header/__link-lang/_active/header__link-lang_active.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
