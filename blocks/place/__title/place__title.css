@@ -16,5 +16,6 @@
 @media(max-width:767px) {
     .place__title {
         font-size: 32px;
+        padding: 0 16px;
     }
 }

@@ -1,0 +1,5 @@
+@media(max-width:767px){
+    .lead_image-wraper{
+        max-width: 320px;
+    }
+}

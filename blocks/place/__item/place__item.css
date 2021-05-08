@@ -5,7 +5,19 @@
         'img content';
     gap: 40px;
     grid-template-columns: 1fr 1fr;
-    margin: 92px 0 0;
+    margin: 0 0 80px;
+    max-width: 984px;
+    margin: 0 auto 80px;
+}
+
+.place__item:last-child {
+    margin-bottom: 0;
+}
+
+@media(max-width:767px) {
+    .place__item {
+        margin: 0 0 73px;
+    }
 }
 
 @media(max-width:767px) {
@@ -16,5 +28,7 @@
             'img '
             'content';
         grid-template-columns: 1fr;
+        gap: 32px;
+        margin: 0 0 50px;
     }
 }

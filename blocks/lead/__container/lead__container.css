@@ -1,21 +1,19 @@
 .lead__container {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    max-width: 984px;
-    min-width: 320px;
-    margin: 0 auto;
-    /* padding: 0 48px; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 984px;
+  margin: 0 auto;
 }
 
 @media (max-width:1279px) {
-    .lead__container {
-      padding: 0 24px;
-    }
+  .lead__container {
+    padding: 0 48px;
   }
+}
 
-  @media (max-width:1023px) {
-    .lead__container {
-      padding: 0;
-    }
+@media (max-width:1023px) {
+  .lead__container {
+    padding: 0;
   }
+}

@@ -4,7 +4,7 @@
 @import url(../blocks/body/body.css);
 
 @import url(../blocks/container/container.css);
-@import url(../blocks/container/__size_small/container_size_small.css);
+@import url(../blocks/container/__size/container_size_small.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
