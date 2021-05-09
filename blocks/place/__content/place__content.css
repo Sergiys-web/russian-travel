@@ -1,5 +1,6 @@
 .place__content {
     grid-area: content;
+    grid-template-columns: minmax(min-content, max-content);
 }
 
 @media (max-width:767px) {
